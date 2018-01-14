@@ -13,6 +13,7 @@ function sayHiToGrandma(string)
 {if (sayHiToGrandma(string.toLowerCase)===sayHiToGrandma(string))
   {return "I can't hear you!"
 
-} else if () {
+} else if (sayHiToGrandma(string.toUpperCase)===sayHiToGrandma(string))
+{return "YES INDEED!"
 
-}}
+} else if (sayHiToGrandma(string)===("I love you, Grandma.")){return "I love you, too."}}
